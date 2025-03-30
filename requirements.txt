@@ -1,0 +1,12 @@
+wordcloud==1.9.3
+plotly==5.9.0
+rich==13.8.0
+langid==1.1.6
+pandas==2.2.2
+streamlit==1.38.0
+matplotlib==3.7.2
+torch==2.4.0
+datasets==2.12.0
+scikit-learn==1.5.1
+transformers==4.44.2
+numpy==1.26.4
